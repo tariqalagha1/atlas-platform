@@ -57,3 +57,7 @@ __pycache__/
 
 # Virtual environments
 .venv/
+
+# Hermes runtime state
+workspaces/*/memory/
+workspaces/*/session/
