@@ -1,0 +1,9 @@
+name: automation
+agent: automation
+domain: operations
+capabilities:
+  - automation
+  - scheduling
+  - monitoring
+memory: private
+status: draft

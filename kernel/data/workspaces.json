@@ -1,0 +1,38 @@
+{
+  "hospital-ai": {
+    "name": "hospital-ai",
+    "path": "/opt/ai-enterprise-os/workspaces/hospital-ai",
+    "status": "created",
+    "description": null
+  },
+  "hscraper": {
+    "name": "hscraper",
+    "path": "/opt/ai-enterprise-os/workspaces/hscraper",
+    "status": "created",
+    "description": null
+  },
+  "odysseus": {
+    "name": "odysseus",
+    "path": "/opt/ai-enterprise-os/workspaces/odysseus",
+    "status": "created",
+    "description": null
+  },
+  "automation": {
+    "name": "automation",
+    "path": "/opt/ai-enterprise-os/workspaces/automation",
+    "status": "created",
+    "description": null
+  },
+  "sandbox": {
+    "name": "sandbox",
+    "path": "/opt/ai-enterprise-os/workspaces/sandbox",
+    "status": "created",
+    "description": null
+  },
+  "research-lab": {
+    "name": "research-lab",
+    "path": "/opt/ai-enterprise-os/workspaces/research-lab",
+    "status": "created",
+    "description": null
+  }
+}

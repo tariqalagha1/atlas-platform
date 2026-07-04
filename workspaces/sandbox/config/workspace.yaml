@@ -1,0 +1,8 @@
+name: sandbox
+agent: sandbox
+domain: testing
+capabilities:
+  - safe-prototyping
+  - isolated-testing
+memory: private
+status: draft

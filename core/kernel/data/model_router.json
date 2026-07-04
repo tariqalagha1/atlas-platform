@@ -1,0 +1,34 @@
+{
+  "deep-research": {
+    "preferred": "glm",
+    "fallback": [
+      "qwen",
+      "openai"
+    ]
+  },
+  "coding": {
+    "preferred": "qwen",
+    "fallback": [
+      "openai",
+      "glm"
+    ]
+  },
+  "fast-extraction": {
+    "preferred": "qwen",
+    "fallback": [
+      "glm"
+    ]
+  },
+  "medical-ai": {
+    "preferred": "openai",
+    "fallback": [
+      "qwen"
+    ]
+  },
+  "automation": {
+    "preferred": "qwen",
+    "fallback": [
+      "glm"
+    ]
+  }
+}

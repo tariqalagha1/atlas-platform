@@ -1,0 +1,11 @@
+{
+  "f1d9a4b2-d4c6-45e4-8793-10f0451e6870": {
+    "id": "f1d9a4b2-d4c6-45e4-8793-10f0451e6870",
+    "source": "kernel",
+    "type": "bootstrap.complete",
+    "payload": {
+      "version": "0.1.0"
+    },
+    "created_at": "2026-07-04T11:00:10.457127"
+  }
+}

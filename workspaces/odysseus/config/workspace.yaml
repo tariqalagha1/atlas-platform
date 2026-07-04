@@ -1,0 +1,9 @@
+name: odysseus
+agent: odysseus
+domain: research
+capabilities:
+  - deep-research
+  - knowledge-analysis
+  - reporting
+memory: private
+status: draft

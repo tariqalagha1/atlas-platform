@@ -1,0 +1,10 @@
+name: hospital-ai
+agent: hospital-ai
+domain: healthcare
+capabilities:
+  - medical-ai
+  - his
+  - pacs
+  - icd
+memory: private
+status: draft

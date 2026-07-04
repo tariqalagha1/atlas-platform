@@ -1,0 +1,35 @@
+{
+  "platform-admin": [
+    "kernel",
+    "profiles",
+    "agents"
+  ],
+  "hscraper": [
+    "web-scraping",
+    "docker",
+    "python"
+  ],
+  "odysseus": [
+    "deep-research",
+    "knowledge",
+    "model-router"
+  ],
+  "hospital-ai": [
+    "medical-ai",
+    "knowledge",
+    "model-router"
+  ],
+  "automation": [
+    "scheduler",
+    "events",
+    "tasks"
+  ],
+  "research-lab": [
+    "models",
+    "experiments",
+    "sandbox"
+  ],
+  "sandbox": [
+    "isolated-workspace"
+  ]
+}

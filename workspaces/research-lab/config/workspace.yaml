@@ -1,0 +1,8 @@
+name: research-lab
+agent: research-lab
+domain: experiments
+capabilities:
+  - experimentation
+  - model-evaluation
+memory: private
+status: draft

@@ -1,0 +1,38 @@
+{
+  "hermes": {
+    "name": "hermes",
+    "type": "agent-runtime",
+    "status": "planned",
+    "port": null
+  },
+  "postgres": {
+    "name": "postgres",
+    "type": "database",
+    "status": "planned",
+    "port": 5432
+  },
+  "redis": {
+    "name": "redis",
+    "type": "cache",
+    "status": "planned",
+    "port": 6379
+  },
+  "qdrant": {
+    "name": "qdrant",
+    "type": "vector-db",
+    "status": "planned",
+    "port": 6333
+  },
+  "minio": {
+    "name": "minio",
+    "type": "object-storage",
+    "status": "planned",
+    "port": 9000
+  },
+  "nginx": {
+    "name": "nginx",
+    "type": "reverse-proxy",
+    "status": "planned",
+    "port": 80
+  }
+}

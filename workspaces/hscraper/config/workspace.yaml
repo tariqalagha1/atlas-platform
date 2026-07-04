@@ -1,0 +1,9 @@
+name: hscraper
+agent: hscraper
+domain: scraping
+capabilities:
+  - web-scraping
+  - coding
+  - testing
+memory: private
+status: draft

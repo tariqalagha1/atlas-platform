@@ -1,0 +1,34 @@
+{
+  "global": {
+    "type": "shared",
+    "status": "planned"
+  },
+  "platform-admin": {
+    "type": "private",
+    "status": "created"
+  },
+  "hscraper": {
+    "type": "private",
+    "status": "created"
+  },
+  "odysseus": {
+    "type": "private",
+    "status": "created"
+  },
+  "hospital-ai": {
+    "type": "private",
+    "status": "created"
+  },
+  "automation": {
+    "type": "private",
+    "status": "created"
+  },
+  "research-lab": {
+    "type": "private",
+    "status": "created"
+  },
+  "sandbox": {
+    "type": "private",
+    "status": "created"
+  }
+}

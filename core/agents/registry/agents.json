@@ -1,0 +1,78 @@
+{
+  "platform-admin": {
+    "name": "Architect",
+    "profile": "platform-admin",
+    "workspace": "platform",
+    "role": "Controls the AI Enterprise OS platform",
+    "status": "draft",
+    "capabilities": [
+      "platform-admin"
+    ]
+  },
+  "hscraper": {
+    "name": "H-Scraper Agent",
+    "profile": "hscraper",
+    "workspace": "hscraper",
+    "role": "Develops and manages H-Scraper",
+    "status": "draft",
+    "capabilities": [
+      "scraping",
+      "coding"
+    ]
+  },
+  "odysseus": {
+    "name": "Odysseus Agent",
+    "profile": "odysseus",
+    "workspace": "odysseus",
+    "role": "Deep research and strategic intelligence",
+    "status": "draft",
+    "capabilities": [
+      "deep-research",
+      "analysis"
+    ]
+  },
+  "hospital-ai": {
+    "name": "Hospital AI Agent",
+    "profile": "hospital-ai",
+    "workspace": "hospital-ai",
+    "role": "Healthcare AI systems",
+    "status": "draft",
+    "capabilities": [
+      "medical-ai",
+      "his"
+    ]
+  },
+  "automation": {
+    "name": "Automation Agent",
+    "profile": "automation",
+    "workspace": "automation",
+    "role": "Automation workflows",
+    "status": "draft",
+    "capabilities": [
+      "automation",
+      "scheduler"
+    ]
+  },
+  "research-lab": {
+    "name": "Research Lab Agent",
+    "profile": "research-lab",
+    "workspace": "research-lab",
+    "role": "Experiments and evaluations",
+    "status": "draft",
+    "capabilities": [
+      "experiments",
+      "evaluation"
+    ]
+  },
+  "sandbox": {
+    "name": "Sandbox Agent",
+    "profile": "sandbox",
+    "workspace": "sandbox",
+    "role": "Safe testing",
+    "status": "draft",
+    "capabilities": [
+      "prototype",
+      "testing"
+    ]
+  }
+}
