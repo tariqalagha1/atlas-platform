@@ -49,3 +49,11 @@ storage/exports/
 # Temporary
 tmp/
 temp/
+
+# Python cache
+__pycache__/
+*.py[c]
+*.pyo
+
+# Virtual environments
+.venv/
